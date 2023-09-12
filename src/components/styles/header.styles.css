@@ -1,0 +1,7 @@
+header {
+  background-image: url('../../assets/desktop/image-hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 800px;
+  width: 100%;
+}

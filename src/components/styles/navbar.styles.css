@@ -1,0 +1,26 @@
+.nav-container {
+  color: var(--white);
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  justify-items: center;
+  align-items: center;
+  padding: 2rem 0;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.nav-container a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  font-family: 'Alata', sans-serif;
+}

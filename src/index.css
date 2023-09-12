@@ -1,9 +1,15 @@
+/* * variables ** */
 :root {
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
-  --gray700: hsl(0, 0%, 55%);
-  --gray900: hsl(0, 0%, 41%);
+  --gray500: hsl(0, 0%, 55%);
+  --gray700: hsl(0, 0%, 41%);
+
+  /* typography */
+  --font-title: 'Josefin Sans', sans-serif;
+  --font-body: 'Alata', sans-serif;
 }
+/* * end variables ** */
 
 * {
   margin: 0;
@@ -11,4 +17,7 @@
   box-sizing: border-box;
 }
 
-/* variables */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
