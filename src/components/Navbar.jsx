@@ -5,7 +5,7 @@ import './styles/navbar.styles.css'
 const Navbar = () => {
   return (
     <>
-      <div className='container'>
+      <div className='container navbar-container'>
         <div className='nav-container'>
           <div className='logo-container'>
             <img src={logo} alt='logo' />

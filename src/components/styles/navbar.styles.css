@@ -1,3 +1,7 @@
+.navbar-container {
+  margin: 0 auto;
+}
+
 .nav-container {
   color: var(--white);
   display: flex;
@@ -5,7 +9,8 @@
   justify-content: space-between;
   justify-items: center;
   align-items: center;
-  padding: 2rem 0;
+  padding: 3rem 0;
+  position: relative;
 }
 
 .logo-container {
