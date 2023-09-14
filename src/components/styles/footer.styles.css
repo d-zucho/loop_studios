@@ -1,0 +1,43 @@
+footer {
+  background-color: black;
+  color: white;
+  padding: 2rem 0;
+}
+
+.logos {
+  display: flex;
+  justify-content: space-between;
+}
+
+.socials {
+  display: flex;
+  gap: 1rem;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 2rem;
+}
+
+.footer-nav-container {
+  display: flex;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 3rem;
+}
+
+.footer-links li:hover {
+  color: var(--gray500);
+  cursor: pointer;
+}
+
+.copy {
+  color: var(--gray700);
+  font-family: 'Alata', sans-serif;
+}
