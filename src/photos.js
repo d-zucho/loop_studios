@@ -1,42 +1,43 @@
+// Data: 8 photos
 export const photos = [
   {
     id: 1,
     title: 'Deep Earth',
-    src: './assets/desktop/image-deep-earth.jpg',
+    src: '/desktop/image-deep-earth.jpg',
   },
   {
     id: 2,
     title: 'Night Arcade',
-    src: './assets/desktop/image-night-arcade.jpg',
+    src: '/desktop/image-night-arcade.jpg',
   },
   {
     id: 3,
     title: 'Soccer Team VR',
-    src: './assets/desktop/image-soccer-team.jpg',
+    src: '/desktop/image-soccer-team.jpg',
   },
   {
     id: 4,
     title: 'The Grid',
-    src: './assets/desktop/image-grid.jpg',
+    src: '/desktop/image-grid.jpg',
   },
   {
     id: 5,
     title: 'From Up Above VR',
-    src: './assets/desktop/image-from-above.jpg',
+    src: '/desktop/image-from-above.jpg',
   },
   {
     id: 6,
     title: 'Pocket Borealis',
-    src: './assets/desktop/image-pocket-borealis.jpg',
+    src: '/desktop/image-pocket-borealis.jpg',
   },
   {
     id: 7,
     title: 'The Curiosity',
-    src: './assets/desktop/image-curiosity.jpg',
+    src: '/desktop/image-curiosity.jpg',
   },
   {
     id: 8,
     title: 'Make It Fisheye',
-    src: './assets/desktop/image-fisheye.jpg',
+    src: '/desktop/image-fisheye.jpg',
   },
 ]
