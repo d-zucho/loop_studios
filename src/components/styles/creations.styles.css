@@ -19,6 +19,12 @@
   padding: 1rem 3rem;
   letter-spacing: 2px;
   background-color: transparent;
+
+  &:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
 }
 
 .photo-spread {

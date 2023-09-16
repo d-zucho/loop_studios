@@ -12,8 +12,8 @@ const Creations = () => {
         {photos.map((photo) => (
           <div className='card'>
             <Card
-              className='card-container'
               key={photo.id}
+              className='card-container'
               src={photo.src}
               title={photo.title}
             />
